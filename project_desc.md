@@ -1,0 +1,6 @@
+passwords 
+publishable key :-  pk_test_51LcWmWSCCMTlY1VOC4G6nfbq2oDBg9OsllkUMtr49g2oUQzjAbVW5dqTQzkTcR15iELxVQRQHkeHEe120buk6Eqv00iQh4hASB 
+
+
+secretkey :- 
+sk_test_51LcWmWSCCMTlY1VOHLOqTIc3ontOImeiMipVjLV1fIfr8P8CrGOHsj9AwrAP0KamjS8LwXiB4LFGqNWuQFURG9GZ00hy4eAqfE
